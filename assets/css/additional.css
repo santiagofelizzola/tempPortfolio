@@ -49,3 +49,7 @@ article {
   .projects-img {
     width: 400px
   }
+
+  .github-Link:hover {
+    color: red;
+  }
