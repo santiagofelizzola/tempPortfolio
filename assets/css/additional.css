@@ -53,3 +53,12 @@ article {
   .github-Link:hover {
     color: red;
   }
+
+.glow {
+    text-shadow: 0 0 5px black, 0 0 10px white;
+  }
+
+.major {
+    text-shadow: 0 0 5px black, 0 0 10px white;
+  }
+  
